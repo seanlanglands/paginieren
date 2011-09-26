@@ -1,0 +1,34 @@
+#pf-shortcode {
+	padding: 0 10px;
+}
+#pf-shortcode table {
+	text-align: left;
+	width: 100%;
+	margin-bottom: 20px;
+}
+#pf-shortcode table tr td,
+#pf-shortcode table th {
+	padding: 5px 0;
+}
+#pf-shortcode table th {
+	vertical-align: middle;
+}
+#pf-shortcode table input[type=text] {
+	width: 97%;
+	padding: 4px;
+	font-size: 12px;
+}
+#pf-shortcode table select {
+	width: 101%;
+	padding: 5px;
+	font-size: 11px;
+}
+#pf-shortcode .pf-submit-button {
+	text-decoration: none;
+	padding: 5px 6px 0 5px;
+	text-align: center;
+}
+
+.wp_themeSkin .mceIcon.mce_pf_button {
+	background: url(images/button-shortcode.jpg) no-repeat center center;
+}
